@@ -1,10 +1,11 @@
 package Cadastro;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Controller {
 
-    ArrayList<Produto> Pro=new ArrayList();
+    List<Produto> Pro=new ArrayList();
 
     public void InserirProduto(String nome, int unidade){
         Produto produto=new Produto();
