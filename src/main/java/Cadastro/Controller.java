@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Controller {
 
-    List<Produto> Pro=new ArrayList();
+    List<Produto> Pro=new ArrayList<>();
 
     public void InserirProduto(String nome, int unidade){
         Produto produto=new Produto();
@@ -21,7 +21,7 @@ public class Controller {
 
     }
     public void MostrarProduto(){
-        for (int i = 0; i < Pro.size(); i++) {
+        for(int i = 0; i < Pro.size(); i++){
             System.out.println(Pro.get(i).getNome());
             System.out.println(Pro.get(i).getUnidade());
 
