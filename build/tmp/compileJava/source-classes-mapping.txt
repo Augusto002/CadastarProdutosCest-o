@@ -1,10 +1,8 @@
 Cadastro/Controller.java
  Cadastro.Controller
-Cadastro/JDBCDriverConnection.java
- Cadastro.JDBCDriverConnection
-Cadastro/ComandoSQL.java
- Cadastro.ComandoSQL
 Cadastro/Produto.java
  Cadastro.Produto
 Cadastro/Main.java
  Cadastro.Main
+Cadastro/JDBCDriverConnection.java
+ Cadastro.JDBCDriverConnection
